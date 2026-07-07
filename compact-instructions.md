@@ -1,0 +1,1 @@
+/compact Compact the present session, focusing on key learnings, details, gotchas, and non-onbvious codebase features/insights that would require a fresh agent session to burn through alot of reasoning/exploration tokens to re-discover. Include a clear and well structured synthesis of the present session.
